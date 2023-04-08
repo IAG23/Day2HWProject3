@@ -9,4 +9,8 @@ public class HWProject3 {
 	public void getData () {
 		
 	}
-}
+	
+	public void getNumberId() {
+	}
+	}
+
